@@ -1,0 +1,215 @@
+# END USER LICENSE AGREEMENT
+
+**for the computer program «Whisper»**
+
+Version of 22 July 2026
+
+> A Russian version of this Agreement is available in [LICENSE.ru.md](LICENSE.ru.md).
+> Where the two texts differ, the Russian version prevails.
+
+---
+
+## 1. General provisions
+
+1.1. This End User License Agreement (the "Agreement") is entered into between
+Kirill Konstantinovich Krivoshein (the "Licensor"), who holds the exclusive
+right to the computer program «Whisper», and the individual or legal entity
+using that program (the "Licensee").
+
+1.2. The computer program «Whisper» (the "Program") is a result of intellectual
+activity and is protected by law as a literary work.
+
+1.3. The Agreement is a license contract of adhesion concluded in the simplified
+manner provided for by law.
+
+1.4. By starting to use the Program, including by installing it on a device, the
+Licensee confirms full and unconditional acceptance of the terms of the
+Agreement. A person who does not agree with these terms may not install or use
+the Program.
+
+## 2. Definitions
+
+2.1. **Program**: the computer program «Whisper», including its components,
+updates, accompanying documentation and data files supplied by the Licensor.
+
+2.2. **License key**: a unique sequence of characters issued by the Licensor
+that grants access to the functionality of the Program for a definite period.
+
+2.3. **Device**: a personal computer running Microsoft Windows or Apple macOS on
+which the Program is installed.
+
+2.4. **Trial period**: a period of free use of the Program, limited by the
+volume of processed speech.
+
+## 3. Subject matter
+
+3.1. The Licensor grants the Licensee the right to use the Program on the terms
+of a simple (non-exclusive) license.
+
+3.2. The exclusive right to the Program is not transferred to the Licensee and
+remains with the Licensor in full.
+
+3.3. The right of use is granted for the territory of all countries of the
+world.
+
+3.4. The term for which the right of use is granted is determined by the tariff
+purchased by the Licensee and is stated in the License key.
+
+## 4. Rights of the Licensee
+
+4.1. The Licensee may reproduce and use the Program for its direct functional
+purpose, including in business and other professional activities.
+
+4.2. The Licensee may install the Program on no more than two Devices at the
+same time under a single purchased License key.
+
+4.3. When replacing a Device, the Licensee may contact the Licensor to transfer
+the License key to the new Device.
+
+4.4. The Licensee may make a copy of the Program for archival purposes in the
+cases provided for by law.
+
+## 5. Restrictions on use
+
+5.1. The Licensee may not:
+
+5.1.1. distribute the Program or the License key, including by sale, rental,
+gratuitous transfer, making available to the public, or inclusion in other
+software products and services;
+
+5.1.2. transfer the right to use the Program to third parties, or give third
+parties access to the License key;
+
+5.1.3. modify the Program, decompile or disassemble it, or take other actions
+aimed at obtaining its source code, except in the cases expressly provided for
+by law;
+
+5.1.4. take actions aimed at circumventing or disabling the License key
+verification mechanisms, or at removing the limitations of the Trial period;
+
+5.1.5. remove or alter information about the authorship of and rights to the
+Program.
+
+5.2. A breach of clause 5.1 constitutes a material breach of the Agreement.
+
+## 6. Trial period
+
+6.1. The Program is provided for evaluation free of charge for a volume of forty
+minutes of processed speech.
+
+6.2. The Trial period is measured by the actual volume of recognised speech.
+Periods of silence and pauses are not included in the processed volume.
+
+6.3. The Trial period is granted once per Device.
+
+6.4. Upon expiry of the Trial period, automatic speech recognition is suspended.
+Other functions of the Program remain available.
+
+## 7. Fees and payment
+
+7.1. The Licensor's fee is determined by the tariff in effect at the time the
+right of use is purchased and is published at the address stated in section 13
+of the Agreement.
+
+7.2. Payments are made using the "Telegram Stars" payment instrument. The
+License key is sent to the Licensee after payment is received.
+
+7.3. If the Program cannot be used due to circumstances attributable to the
+Licensor and those circumstances cannot be remedied, the Licensor shall refund
+the fee paid, provided that the Licensee applies within seven calendar days from
+the date of payment.
+
+7.4. No refund is made on the ground of a subjective assessment of the quality
+of the Program. The Licensee evaluates the suitability of the Program during the
+Trial period, before payment.
+
+## 8. Third-party software and services
+
+8.1. Speech recognition is performed through the Deepgram service. The Licensee
+obtains access to that service independently and on the terms of its rights
+holder. The cost of using the Deepgram service is not included in the Licensor's
+fee.
+
+8.2. Answers are generated by the Ollama software installed on the Licensee's
+Device.
+
+8.3. The Licensor is not responsible for the availability, operability, terms of
+use or pricing of third-party services and software.
+
+## 9. Data processing
+
+9.1. Audio data is transmitted to the Deepgram service solely for the purpose of
+speech recognition.
+
+9.2. Answers are generated on the Licensee's Device by default, without
+transferring data to third parties. If the Licensee selects a cloud language
+model, the transcript is transmitted to the servers of the corresponding
+service.
+
+9.3. The Licensor does not receive or store audio data, transcripts, or any
+other information about the content of the Licensee's conversations. The Program
+contacts the Licensor's servers solely to check for updates.
+
+9.4. Files created by the Licensee while using the Program are stored on the
+Licensee's Device.
+
+## 10. Representations and obligations of the Licensee
+
+10.1. The Licensee is solely responsible for complying with the law governing
+the recording and processing of conversations, including obtaining the consent
+of the participants where such consent is required.
+
+10.2. The Licensee is aware that the Program generates answers automatically and
+that recognition errors and factual inaccuracies occur. The Licensee verifies
+information before relying on it.
+
+## 11. Liability
+
+11.1. The Program is provided "as is". The Licensor makes no representation that
+the Program will meet the Licensee's expectations, operate without interruption,
+or produce error-free recognition results.
+
+11.2. The Licensor is not liable for losses, including lost profits, arising
+from the use of or inability to use the Program, or for the consequences of
+decisions taken by the Licensee on the basis of information generated by the
+Program.
+
+11.3. The Licensor's aggregate liability is limited to the amount of the fee
+actually paid by the Licensee.
+
+11.4. The provisions of this section apply to the extent that they do not
+conflict with the mandatory rules of applicable law.
+
+## 12. Term and termination
+
+12.1. The Agreement enters into force at the moment specified in clause 1.4 and
+remains in force for the term for which the right of use is granted.
+
+12.2. The Licensee may unilaterally withdraw from the Agreement by deleting the
+Program from the Devices belonging to the Licensee.
+
+12.3. In the event of a material breach by the Licensee, the granted right of
+use terminates unilaterally and without recourse to the courts. The fee paid is
+not refunded in that case.
+
+12.4. The Licensor may change the terms of the Agreement for subsequent versions
+of the Program. The version in effect on the date the right of use was purchased
+applies to the relations between the parties.
+
+## 13. Final provisions
+
+13.1. The law of the Russian Federation applies to the relations between the
+parties.
+
+13.2. The parties shall seek to settle disputes through negotiation. A pre-trial
+claim procedure is mandatory; a claim shall be considered within thirty calendar
+days of its receipt.
+
+13.3. All rights to the Program not expressly granted to the Licensee under the
+Agreement are reserved by the Licensor.
+
+13.4. If any provision of the Agreement is held invalid, the remaining
+provisions remain in force.
+
+13.5. Enquiries regarding the performance of the Agreement are to be sent to the
+Licensor at: [@Whisper_license_bot](https://t.me/Whisper_license_bot)
